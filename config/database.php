@@ -3,11 +3,11 @@
  * Configuração do banco de dados com auto-instalação das tabelas.
  */
 
-define('DB_HOST', 'sql207.infinityfree.com');
-define('DB_PORT', '3306');
-define('DB_NAME', 'if0_43217423_perguntas');
-define('DB_USER', 'if0_43217423');
-define('DB_PASS', 'wfDl0F2VlV');
+define('DB_HOST', 'xxxxxxxxxxxxxxxx');
+define('DB_PORT', 'xxxxxxxx');
+define('DB_NAME', 'xxxxxxxxxxxxx');
+define('DB_USER', 'xxxxxxxxxxxxx');
+define('DB_PASS', 'xxxxxxxxxx');
 
 
 class Database {
